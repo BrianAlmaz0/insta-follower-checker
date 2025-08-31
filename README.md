@@ -1,6 +1,4 @@
-echo "# Insta Follow Checker
-
-A Python script to check which Instagram accounts you follow that do not follow you back.
+#A Python script to check which Instagram accounts you follow that do not follow you back.
 
 ## Usage
 
